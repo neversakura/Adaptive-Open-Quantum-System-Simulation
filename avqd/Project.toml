@@ -1,0 +1,13 @@
+name = "AVQD"
+uuid = "fe2e0818-7b5b-4585-9bf6-d0f8abf789cb"
+authors = ["Huo Chen <neversakura@hotmail.com>"]
+version = "0.2.10"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OpenQuantumBase = "5dd19120-8766-11e9-1ef9-27094038a7db"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
